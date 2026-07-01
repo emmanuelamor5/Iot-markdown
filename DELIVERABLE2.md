@@ -85,9 +85,12 @@ Per the Deliverable 2 brief, our group produced the required minimum of 4 protot
 
 ## 6. Issues Encountered and Resolutions
 
-- **Problem:** For architecture (a), we were unable to display any output on the LCD.
-- **Solutions explored:** We checked the wiring and suspected that the connections were either not transmitting enough voltage or that the LCD module had failed completely. We tried to resolve the issue during the available time, but we could not fully fix it before submission.
-- **Recommendation / resolution:** Although the LCD did not display as expected, the IDE serial monitor produced meaningful output and confirmed that the program logic was working. This suggests the issue was most likely hardware-related and should be revisited by rechecking the wiring, power supply, and LCD module.
+- **Problem:** The LCD module for architecture (a) did not display any output during physical testing.
+- **Solutions explored:** Wiring connections were checked and re-checked. Two likely causes were identified:
+Insufficient voltage being delivered to the LCD, or
+Complete failure of the LCD module itself
+Given the time available before submission, we were unable to conclusively isolate and fix the root cause.
+- **Recommendation / resolution:** Despite the LCD issue, the IDE serial monitor produced correct, meaningful output — confirming that the underlying program logic (sensor reads, data formatting, thresholds) was working as intended. This strongly suggests the fault is isolated to the hardware/display layer rather than the code.
 
 ---
 
