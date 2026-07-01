@@ -39,12 +39,12 @@ Per the Deliverable 2 brief, our group produced the required minimum of 4 protot
 
 ### 3.1 Physical Prototype
 
-![Physical prototype (a)](media/4aphysical 1.jpeg)
-![Physical prototype (a) - alternate angle](media/4aphysical 2.jpeg)
+![Physical prototype (a)](media/4aphysical%201.jpeg)
+![Physical prototype (a) - alternate angle](media/4aphysical%202.jpeg)
 
 **IDE Output:**
 
-![IDE output (a)](media/4aIDE simulated.jpeg)
+![IDE output (a)](media/4aIDE%20simulated.jpeg)
 
 
 ### 3.2 Simulated Prototype
@@ -52,7 +52,7 @@ Per the Deliverable 2 brief, our group produced the required minimum of 4 protot
 **Wokwi Project Link:** [https://wokwi.com/projects/467286122843350017](https://wokwi.com/projects/467286122843350017)
 
 
-![Simulated prototype (a)](media/4a Wokwi simulated.png)
+![Simulated prototype (a)](media/4a%20Wokwi%20simulated.png)
 
 ---
 
@@ -61,12 +61,12 @@ Per the Deliverable 2 brief, our group produced the required minimum of 4 protot
 ### 4.1 Physical Prototype
 
 
-![Physical prototype (b)](media/4bphysical 1.jpeg)
-![Physical prototype (b) - alternate angle](media/4bphysical 2.jpeg)
+![Physical prototype (b)](media/4bphysical%201.jpeg)
+![Physical prototype (b) - alternate angle](media/4bphysical%202.jpeg)
 
 **IDE Output:**
 
-![IDE output (b)](media/4bIDE simulated.jpeg)
+![IDE output (b)](media/4bIDE%20simulated.jpeg)
 
 ---
 
@@ -77,7 +77,7 @@ Per the Deliverable 2 brief, our group produced the required minimum of 4 protot
 **Wokwi Project Link:** [https://wokwi.com/projects/467156925257896961](https://wokwi.com/projects/467156925257896961)
 
 
-![Simulated prototype (c)](media/4c Wokwi simulated.png)
+![Simulated prototype (c)](media/4c%20Wokwi%20simulated.png)
 
 
 
