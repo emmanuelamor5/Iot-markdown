@@ -16,7 +16,7 @@
 
 **Evidence of groupwork:**
 
-![Group photo](media/group_photo.jpg)
+![Group photo](media/group_photo.jpeg)
 
 
 ---
