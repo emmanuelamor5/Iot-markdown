@@ -9,10 +9,10 @@
 
 | Name | Student ID | Role in this Deliverable |
 |---|---|---|
-| Jesse Richard and Ryan Arkadie | 159287, 168052| _e.g. Physical prototype (a), wiring & testing_ |
-| Derrick Kibet and Emmanuel Ochieng | 169651, 169765 | _e.g. Physical prototype (b), documentation_ |
-| Joe Karogo and Matthew Wachira | 167141, 151733 | _e.g. Wokwi simulations (a) and (c)_ |
-| Jarvis Getenga | 169888 | _e.g. Sensor calibration, IDE output capture_ |
+| Jesse Richard and Ryan Arkadie | 159287, 168052| Physical prototype (a), wiring & testing_ |
+| Derrick Kibet and Emmanuel Ochieng | 169651, 169765 | Physical prototype (b), documentation_ |
+| Joe Karogo and Matthew Wachira | 167141, 151733 | Wokwi simulations (a) and (c)_ |
+| Jarvis Getenga | 169888 | Sensor calibration, IDE output capture_ |
 
 **Evidence of groupwork:**
 
